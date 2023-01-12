@@ -1,0 +1,80 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway&display=swap);
+
+body{
+    background-color: #E8DAB2;
+    font-family: 'Ralway';
+}
+
+header{
+    font-weight: bold;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    margin-left: 2%;
+}
+
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 24px;
+}
+
+li{
+    margin: 15px;
+}
+
+#titulo1{
+    font-size: 26px;
+    position: relative;
+    margin-bottom: 4%;
+
+}
+
+#titulo2{
+    position: absolute;
+    font-size: 52px;
+    margin-top: 4%;
+}
+
+#salsichinha{
+    margin-left: 65%;
+}
+
+#imgconteudo{
+    height: 480px;
+    margin: 10px;
+}
+
+main{
+    box-shadow: 0px 0px 13px -5px #000000;    
+    padding-top: 34px;
+    padding-right: 24px;
+    padding-left: 24px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    margin: 0 20% 0 20%;
+    background-color: white;
+    width: 59%;
+    margin-bottom: 8%;
+}
+
+footer{
+    display: block;
+}
+
+#footer{
+    position: fixed;
+    background-color:#090909;
+    color: white;
+    text-align: center;
+    bottom:0;
+    margin-bottom: -3px;
+    margin-left: -6px;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+
